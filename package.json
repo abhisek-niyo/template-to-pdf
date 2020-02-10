@@ -12,6 +12,7 @@
     "type": "git",
     "url": "https://github.com/bypasslane/template-to-pdf.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "pdf",
     "html",
