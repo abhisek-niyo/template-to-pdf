@@ -1,5 +1,5 @@
 {
-  "name": "@bypasslane/template-to-pdf",
+  "name": "template-to-pdf",
   "version": "1.2.3",
   "description": "This is the swiss army knife of html to pdf render'ers. Support for EJS, Mustache, Handlebars, Pug, or HAML to PDF",
   "main": "index.js",
